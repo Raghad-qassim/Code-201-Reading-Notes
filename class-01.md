@@ -167,9 +167,10 @@ Older browsers that do not know the new HTML5 elements will automatically treat 
 
 # Chapter (18)
 
+Every website should be designed for the target audience which can be :
 
-**Every website should be designed for the target audience which can be :**
 1-individuals
+
 2-Companies
 
 -To help determine why people are coming to your website, there are two basic categories of questions you can ask:
