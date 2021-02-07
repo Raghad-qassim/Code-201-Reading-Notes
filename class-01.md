@@ -1,20 +1,24 @@
- # Introduction 
+**Introduction**
 
 people can access to the web site using:
 
 1- Browsers
+
 People access websites using software called a web browser
  examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
 You can view a web page, by typing a web address into their browser, follow a link from another site, or use a bookmark.
 
 2-Web server
+
 a web server which hosts the website.
 Web servers are special computers that are constantly connected to the Internet.
 
 3- Screen reader
+
 Screen readers are programs that read out the contents of a computer screen to a user.
 
 4-Devices
+
 Example:
 desktop computers, laptops, tablets, and mobile phones
 
@@ -47,6 +51,7 @@ They made up of two parts: a name and a value.
 Some content management systems (CMS)offer tools that also allow you to edit the template files.
 
 # Chapter (8)
+
 Versions of HTML:
 1)HTML 4 (Released 1997)
 With the exception of a few elements added in HTML5.
@@ -124,6 +129,7 @@ There are some characters that are used in and reserved by HTML code. (For examp
 
 
 # Chapter (17)
+
 New html5 layout elements 
 
 1)The header and footer
@@ -161,13 +167,12 @@ Older browsers that do not know the new HTML5 elements will automatically treat 
 
 # Chapter (18)
 
+
 **Every website should be designed for the target audience which can be :**
 1-individuals
-
 2-Companies
--
 
-To help determine why people are coming to your website, there are two basic categories of questions you can ask:
+-To help determine why people are coming to your website, there are two basic categories of questions you can ask:
 
  1: The first attempts to discover the underlying motivations for why visitors come to the site.
 
